@@ -7,6 +7,13 @@
 *.swp
 *.swo
 
+# Claude
+.claude/
+CLAUDE.md
+
+# Markdown source
+photonrecall/privacy/privacy-policy.md
+
 # Environment
 .env
 .env.local
